@@ -1,0 +1,15 @@
+{
+  "name": "tipo_de_cambio",
+  "version": "0.0.0",
+  "description": "revisar el tipo de cambio",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  	"start": "node server.js"
+  },
+  "author": "George <7jagjag@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "phantom": "^0.7.2"
+  }
+}
